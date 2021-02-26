@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WPF\\Day01\\Bonus-Task\\Bonus-Task.csproj": {}
+    "D:\\WPf\\Day01\\Bonus-Task\\Bonus-Task.csproj": {}
   },
   "projects": {
-    "D:\\WPF\\Day01\\Bonus-Task\\Bonus-Task.csproj": {
+    "D:\\WPf\\Day01\\Bonus-Task\\Bonus-Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WPF\\Day01\\Bonus-Task\\Bonus-Task.csproj",
+        "projectUniqueName": "D:\\WPf\\Day01\\Bonus-Task\\Bonus-Task.csproj",
         "projectName": "Bonus-Task",
-        "projectPath": "D:\\WPF\\Day01\\Bonus-Task\\Bonus-Task.csproj",
+        "projectPath": "D:\\WPf\\Day01\\Bonus-Task\\Bonus-Task.csproj",
         "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-        "outputPath": "D:\\WPF\\Day01\\Bonus-Task\\obj\\",
+        "outputPath": "D:\\WPf\\Day01\\Bonus-Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

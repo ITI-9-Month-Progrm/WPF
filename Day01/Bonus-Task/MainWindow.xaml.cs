@@ -38,7 +38,10 @@ namespace Bonus_Task
         
         private void selectAll(object sender, RoutedEventArgs e)
         {
-            txt1.SelectAll();txt1.Focusable = true;
+            if (!txt1.IsFocused)
+                txt1.Focus();
+            
+            txt1.SelectAll();
         }
         private void clearText(object sender, RoutedEventArgs e)
         {

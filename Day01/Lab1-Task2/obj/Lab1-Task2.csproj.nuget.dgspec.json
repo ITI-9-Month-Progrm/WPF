@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WPF\\Day01\\Lab1-Task2\\Lab1-Task2.csproj": {}
+    "D:\\WPf\\Day01\\Lab1-Task2\\Lab1-Task2.csproj": {}
   },
   "projects": {
-    "D:\\WPF\\Day01\\Lab1-Task2\\Lab1-Task2.csproj": {
+    "D:\\WPf\\Day01\\Lab1-Task2\\Lab1-Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WPF\\Day01\\Lab1-Task2\\Lab1-Task2.csproj",
+        "projectUniqueName": "D:\\WPf\\Day01\\Lab1-Task2\\Lab1-Task2.csproj",
         "projectName": "Lab1-Task2",
-        "projectPath": "D:\\WPF\\Day01\\Lab1-Task2\\Lab1-Task2.csproj",
+        "projectPath": "D:\\WPf\\Day01\\Lab1-Task2\\Lab1-Task2.csproj",
         "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-        "outputPath": "D:\\WPF\\Day01\\Lab1-Task2\\obj\\",
+        "outputPath": "D:\\WPf\\Day01\\Lab1-Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

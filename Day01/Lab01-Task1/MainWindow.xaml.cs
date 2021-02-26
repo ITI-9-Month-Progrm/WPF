@@ -24,5 +24,30 @@ namespace Lab01_Task1
         {
             InitializeComponent();
         }
+
+        private void okBtn_Click(object sender, RoutedEventArgs e)
+        {
+            if((txt0.Text != "")&&(txt1.Text != "") && (txt2.Text != "") && (txt3.Text != "") && (txt4.Text != "") && (txt5.Text != "") && (txt6.Text != "") && (txt7.Text != "") && (txt8.Text != ""))
+            {
+                MessageBox.Show("Data Saved Successfull ^^ ","Save_Data");
+            }
+            else
+            {
+                MessageBox.Show("Some Data Lose ^^ ", "Error");
+            }
+        }
+
+        private void cancelBtn_Click(object sender, RoutedEventArgs e)
+        {
+            txt0.Text = " ";
+            txt1.Text = " ";
+            txt2.Text = " "; 
+            txt3.Text = " "; 
+            txt4.Text = " "; 
+            txt5.Text = " "; 
+            txt6.Text = " "; 
+            txt7.Text = " ";
+            txt8.Text = " ";
+        }
     }
 }
