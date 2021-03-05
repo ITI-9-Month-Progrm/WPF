@@ -19,3 +19,4 @@ D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\Lab03-Task02.dll
 D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\ref\Lab03-Task02.dll
 D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\Lab03-Task02.pdb
 D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\Lab03-Task02.genruntimeconfig.cache
+D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\Lab03-Task02.csprojAssemblyReference.cache
