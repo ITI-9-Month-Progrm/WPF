@@ -5,7 +5,6 @@ D:\WPF\Day03\Lab03-Task02\bin\Debug\net5.0-windows\Lab03-Task02.runtimeconfig.de
 D:\WPF\Day03\Lab03-Task02\bin\Debug\net5.0-windows\Lab03-Task02.dll
 D:\WPF\Day03\Lab03-Task02\bin\Debug\net5.0-windows\ref\Lab03-Task02.dll
 D:\WPF\Day03\Lab03-Task02\bin\Debug\net5.0-windows\Lab03-Task02.pdb
-D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\Lab03-Task02.csprojAssemblyReference.cache
 D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\MainWindow.g.cs
 D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\App.g.cs
 D:\WPF\Day03\Lab03-Task02\obj\Debug\net5.0-windows\Lab03-Task02_MarkupCompile.cache
