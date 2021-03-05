@@ -8,7 +8,6 @@ D:\WPF\Day02\Lab02-Task01\bin\Debug\netcoreapp3.1\Lab02-Task01.runtimeconfig.jso
 D:\WPF\Day02\Lab02-Task01\bin\Debug\netcoreapp3.1\Lab02-Task01.runtimeconfig.dev.json
 D:\WPF\Day02\Lab02-Task01\bin\Debug\netcoreapp3.1\Lab02-Task01.dll
 D:\WPF\Day02\Lab02-Task01\bin\Debug\netcoreapp3.1\Lab02-Task01.pdb
-D:\WPF\Day02\Lab02-Task01\obj\Debug\netcoreapp3.1\Lab02-Task01.csprojAssemblyReference.cache
 D:\WPF\Day02\Lab02-Task01\obj\Debug\netcoreapp3.1\MainWindow.baml
 D:\WPF\Day02\Lab02-Task01\obj\Debug\netcoreapp3.1\Lab02-Task01.g.resources
 D:\WPF\Day02\Lab02-Task01\obj\Debug\netcoreapp3.1\Lab02-Task01.AssemblyInfoInputs.cache
